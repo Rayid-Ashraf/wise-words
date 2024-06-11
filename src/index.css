@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    font-family: "Rubik", sans-serif;
+  }
+}
+@layer components {
+}
+@layer utilities {
+  .font-rubik {
+    font-family: "Rubik", sans-serif;
+  }
+}
